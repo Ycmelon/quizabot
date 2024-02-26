@@ -2,7 +2,7 @@
 
 Telegram bot to automatically answer trivia game Quizarium's questions
 
-![Demo gif](.github/quizabot.gif)
+<img src=".github/quizabot.gif" width="400" alt="Demo gif">
 
 ## Method comparison
 
