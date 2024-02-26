@@ -1,0 +1,6 @@
+python-dotenv
+cloudscraper
+nlpcloud==1.1.45
+sqlitedict>=2.0, <=3.0
+telethon==1.32.1
+beautifulsoup4
